@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyNHIycHF4eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxu5L9WfW8w/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=OM%20JADIYA&fontSize=50&height=150&desc=Cybersecurity%20Researcher%20|%20Student&descAlignY=65&descSize=20&animation=fadeIn" />
 </div>
 
