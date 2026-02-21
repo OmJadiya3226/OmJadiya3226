@@ -1,16 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyNHIycHF4eG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxu5L9WfW8w/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA4ZnhueG54eG54eG54eG54eG54eG54eG54eG54eG54JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=00FF00&text=OM%20JADIYA&fontSize=50&height=150&desc=Cybersecurity%20Researcher%20|%20Student&descAlignY=65&descSize=20&animation=fadeIn" />
-</div>
-
-> [!NOTE]
 > **"There are two types of companies: those who have been hacked, and those who don't yet know they have been hacked"** — *John Chambers, former CEO of Cisco*
 
-# 💫 About Me:
-Hey there! 👋 I'm **Om Jadiya**, a 3rd-year B.Tech CSE student at Charusat University. My passion lies in the intersection of software development and security. I am a dedicated **Cybersecurity Researcher** focused on building secure systems and understanding the mechanics of modern exploits.
+# 👨‍💻About Me:
+Hey there! 👋 I'm **Om Jadiya**, a 3rd-year B.Tech CSE student at Charusat University. My passion lies in the intersection of software development and security. I am a dedicated **Cybersecurity Researcher** focused on building secure systems and understanding the mechanics of modern exploits , Also I have Successfully Completed RedHat-RH124 & RH134 system Administration Course for Understanding Linux and Admin Systems Better which Work at Production Level. I'm GDG Core Member for Management , Handling and Streamlinning workflows of Events , It's  Implementation and Execution, Apart From these , I have Conducted lot of workshops related to Redhat , CentOS, System Security and software Patch .
 
 ---
 
@@ -39,11 +34,6 @@ Hey there! 👋 I'm **Om Jadiya**, a 3rd-year B.Tech CSE student at Charusat Uni
 ---
 
 ## 📊 Terminal Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmJadiya3226&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmJadiya3226&theme=radical&hide_border=false&layout=compact" width="38%" />
-</div>
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=OmJadiya3226&theme=radical&hide_border=false" width="100%" /> 
 </div>
